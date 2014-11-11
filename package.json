@@ -1,0 +1,24 @@
+{
+    "name": "secret-sauce",
+    "title": "Secret Sauce",
+    "version": "0.0.1",
+    "author": "Brett Jones",
+    "homepage": "http://www.helpscout.net/",
+    "scripts": {
+        "start": "node index.js"
+    },
+    "dependencies": {
+        "express": "~4.9.x",
+        "node-slack": "~0.0.5"
+    },
+    "engines": {
+        "node": "0.10.x"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/heroku/node-js-getting-started"
+    },
+    "keywords": [
+        "node", "heroku", "express"
+    ]
+}
